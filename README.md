@@ -7,5 +7,5 @@
 похож на гопника
 
 <div align="center">
-    <img src="https://gamingtrend.com/wp-content/uploads/2013/06/bonkchoy-copy-768x664.jpg" alt="Горохострел" width="300px">
+    <img src="https://gamingtrend.com/wp-content/uploads/2013/06/bonkchoy-copy-768x664.jpg" alt="Горохострел" width="3000px">
 </div>
